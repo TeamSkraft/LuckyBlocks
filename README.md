@@ -1,0 +1,1 @@
+This mod consists of 8 new lucky blocks replaced with 8 ores of Vanilla Minecraft. The lucky blocks generate like their coressponding ore. The new lucky blocks are - Coal, Iron, Gold, Diamond, Emerald, Lapis Lazuli, Netherite, Redstone lucky blocks
