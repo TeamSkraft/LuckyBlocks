@@ -1,0 +1,10 @@
+{
+	"block.minecraft.coal_ore":"Coal Lucky Block",
+	"block.minecraft.iron_ore":"Iron Lucky Block",
+	"block.minecraft.gold_ore":"Gold Lucky Block",
+	"block.minecraft.redstone_ore":"Food Lucky Block",
+	"block.minecraft.diamond_ore":"Diamond Lucky Block",
+	"block.minecraft.lapis_ore":"Lapis Lucky Block",
+	"block.minecraft.emerald_ore":"Emerald Lucky Block",
+	"block.minecraft.ancient_debris":"Netherite Lucky Block"
+}
